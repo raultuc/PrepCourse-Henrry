@@ -1,2 +1,3 @@
-# PrepCourse-Henrry
-Este es unh repositorio de prueba del prepcourse de Henrry
+Raul M. Anis
+
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde Github a mi escritorio local
